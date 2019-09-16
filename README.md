@@ -6,7 +6,7 @@ encore mini project
 > 국내 프로그램 트랜드를 알 수 있는 꺽은선 그래프<br>
 
 ### vue_basic
-w3school 사이트 template에 vue 적용하기
+>w3school 사이트 template에 vue 적용하기
 
 
 
